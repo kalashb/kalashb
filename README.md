@@ -4,11 +4,11 @@
 ### 🎓 Computer Engineering @ University of Toronto  
 
 ### 🛠️ What I Do:  
-- Low-level programming & robotics 🤖  
-- High-level, pretty frontend designs 🎨✨  
+- Low-level programming & robotics  
+- High-level, pretty frontend designs  
 
 ### 📚 Currently Learning:  
-- Data analysis 📊  
-- Machine learning 🤖📈  
+- Data analysis  
+- Machine learning  
 
-Excited to learn, build, and share! 🚀  
+Excited to learn, build, and share!  
