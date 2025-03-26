@@ -10,7 +10,7 @@
 ### 📚 Currently Learning:  
 - Data analysis  
 - Machine learning
-- 
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=kalashb&theme=dark&hide_border=true)<br/>
 
