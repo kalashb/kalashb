@@ -5,7 +5,7 @@
 
 ### 🛠️ What I Do:  
 - Low-level programming & robotics  
-- High-level, pretty frontend designs  
+- High-level, web designs  
 
 ### 📚 Currently Learning:  
 - Data analysis  
