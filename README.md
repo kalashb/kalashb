@@ -1,4 +1,4 @@
-# hi humans (and non-human creatures) 
+# hello
 
 ## I'm Kalash (she/her)  
 🎓 Computer Engineering @ University of Toronto
